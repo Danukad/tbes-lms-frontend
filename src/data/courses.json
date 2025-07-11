@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "Dive into the latest technologies, learn to build responsive websites, and master front-end and back-end development.",
+    "rating": 5.0,
+    "reviews": 976,
+    "objectives": [
+      "Acquire technical skills, including HTML, CSS, JavaScript, and relevant programming languages.",
+      "Develop and complete web development projects and interactive applications.",
+      "Enhance problem-solving abilities, including debugging and troubleshooting code.",
+      "Master both front-end and back-end development concepts.",
+      "Apply industry best practices, such as responsive design and accessibility."
+    ],
+    "stack": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git", "REST API's", "Express"],
+    "overview": ["Introduction to Web Technologies", "Hands-on projects to build your portfolio"],
+    "enrolled": 136,
+    "duration": "12 weeks",
+    "seats": "14/150",
+    "levels": "All levels",
+    "certificate": "Completion Certificate"
+  },
+  {
+    "id": 2,
+    "title": "Mobile App Development",
+    "description": "Learn to build cutting-edge mobile apps with Flutter and React Native, focusing on cross-platform development.",
+    "rating": 4.8,
+    "reviews": 450,
+    "objectives": [
+      "Master mobile app development with Flutter and React Native.",
+      "Build and deploy apps for iOS and Android.",
+      "Understand state management and API integration.",
+      "Optimize apps for performance and user experience."
+    ],
+    "stack": ["Flutter", "React Native", "Dart", "JavaScript", "Firebase", "REST API's"],
+    "overview": ["Basics of Mobile Development", "Portfolio-building projects"],
+    "enrolled": 90,
+    "duration": "10 weeks",
+    "seats": "20/100",
+    "levels": "Intermediate",
+    "certificate": "Completion Certificate"
+  }
+]
